@@ -1,6 +1,6 @@
 {
   "author": "savvytrader",
-  "createdAt": "2024-01-20",
+  "createdAt": "2024-06-27",
   "homepage": "https://savvytrader.com",
   "identifier": "savvy_trader_ai",
   "manifest": "https://openai-collections.chat-plugin.lobehub.com/savvy-trader/manifest.json",
@@ -8,7 +8,8 @@
     "avatar": "https://openai-collections.chat-plugin.lobehub.com/savvy-trader/logo.webp",
     "description": "Realtime stock, crypto and other investment data.",
     "tags": ["stock", "analyze"],
-    "title": "Savvy Trader AI"
+    "title": "Savvy Trader AI",
+    "category": "stocks-finance"
   },
   "schemaVersion": 1
 }
